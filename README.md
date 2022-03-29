@@ -4,7 +4,9 @@
 ### Assign a variable with each datatypes covered in the previous workshop The datatypes previous covered were “Boolean”, “String”, “Int”
 
 $BoolanVar = $True
+
 $StringVar = "This is a string"
+
 $IntVar = 42
 
 ---
@@ -20,7 +22,9 @@ Get-Variable
 ### Multiple two Int variables together PowerShell can perform basic maths operators, such as “+”, “-“ and “*”
 
 $IntVar1 = 4
+
 $IntVar2 = 10
+
 $IntVar1 * $IntVar2
 
 ---
@@ -29,6 +33,7 @@ $IntVar1 * $IntVar2
 ### First declare two Int variables. Then divided the first variable by the second and assign the result to a variable named $VariableResult The easiest way to do this is within the Integrated Scripting Environment (ISE) using multiple lines of code
 
 $IntVar3 = 10
+
 $IntVar4 = 2
 
 $VariableResult = $IntVar3 / $IntVar4
