@@ -14,6 +14,10 @@
 ## Task 2
 ### List all variables currently loaded in to memory. The noun within the cmdlet is “Variable”
 
+- Get-Variable
+
+![image](https://user-images.githubusercontent.com/91567318/161072540-ffa45801-457b-4743-a929-541c488e0c30.png)
+
 - Get-Variable BoolanVar
 
 ![image](https://user-images.githubusercontent.com/91567318/160652076-2afb029a-0a51-477b-a554-dfa8f31760a1.png)
@@ -47,6 +51,9 @@
 - $VariableResult = $IntVar3 / $IntVar4
 
 ![image](https://user-images.githubusercontent.com/91567318/160653300-57374bc1-46ea-461b-be31-074976f9e607.png)
+
+![image](https://user-images.githubusercontent.com/91567318/161072318-0146ae27-078b-464c-9efc-0e7ced74c87e.png)
+
 
 ---
 
